@@ -1,1 +1,1 @@
-# Digit-Recognizer-from-basics-MNist Dataset
+# Digit-Recognizer-using-numpy-MNist Dataset 
